@@ -1,0 +1,29 @@
+1.  Хедер Сделал
+2.  SideBar. Более правильная реализация кнопок: https://www.w3schools.com/bootstrap4/bootstrap_list_groups.asp
+3.  SideBar Поменять цвет и фон кнопки https://getbootstrap.com/docs/4.4/utilities/colors/
+4.  SideBar Растянуть кнопку на все доступное место
+
+5.  ADMIN_PAGE USERS_TABLE Вывод ролей в таблице, которые есть у юзра СДЕЛАЛ
+6.  ADMIN_PAGE USERS_TABLE Блок для edit можно сделать с помозью: https://www.w3schools.com/bootstrap4/bootstrap_modal.asp  СДЕЛАЛ
+7.  ADMIN_PAGE USERS_TABLE Шаблон кода для таблицы с юзерами: https://www.w3schools.com/bootstrap4/bootstrap_tables.asp
+8.  ADMIN_PAGE USERS_TABLE Сделать так, чтобы таблица растягивалась на все допутимое место
+9.  ADMIN_PAGE NEW_USER страница СДЕЛАЛ
+10. ADMIN_PAGE NEW_USER кнопку по центру
+
+8.  ADMIN_PAGE Контур для таблицы юзеров у админа: https://www.w3schools.com/bootstrap4/bootstrap_cards.asp
+9.  ADMIN_PAGE tab panel Таблица и блок регистрации были на одной странице в разных вкладках:
+                https://getbootstrap.com/docs/4.1/components/navs/
+                https://itchief.ru/lessons/bootstrap-3/100-bootstrap-3-dynamic-tabs
+                https://html5css.ru/bootstrap4/bootstrap_ref_js_tab.php
+                https://getbootstrap.ru/docs/v4-alpha/components/navs/
+
+
+
+
+
+
+
+
+
+
+
